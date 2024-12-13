@@ -103,6 +103,7 @@ npm install
 ```bash
 npm start
 ```
+# Kartik Pardikar
 
   View the website at: http://localhost:3000
 
